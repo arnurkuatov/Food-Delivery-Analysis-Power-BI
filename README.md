@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Food Delivery Analysis Project
 
-You can use the [editor on GitHub](https://github.com/cabudies/Food-Delivery-Analysis-Power-BI/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#### Topics covered:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Data Modeling.
+2. Time formatting.
+3. DAX Language.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### View the project on Power BI
 
-```markdown
-Syntax highlighted code block
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiYjViY2E5ZDctZDI1Yy00YTJjLTgwMDYtYjE2ZTgyZTgzMjU4IiwidCI6IjY3NWE3Zjc0LTA0MjItNGMxNi1iMjc5LWY2NzdhODc3M2Y1ZiJ9" frameborder="0" allowFullScreen="true"></iframe>
 
-# Header 1
-## Header 2
-### Header 3
+#### Contact me : Gurjas Singh
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cabudies/Food-Delivery-Analysis-Power-BI/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email - gurjassingh92@gmail.com
+Phone - 9810821705
